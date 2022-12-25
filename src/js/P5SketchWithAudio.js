@@ -5,8 +5,8 @@ import * as p5 from "p5";
 import { Midi } from '@tonejs/midi'
 import PlayIcon from './functions/PlayIcon.js';
 
-import audio from "../audio/memories-no-3.ogg";
-import midi from "../audio/memories-no-3.mid";
+import audio from "../audio/memories-no-4.ogg";
+import midi from "../audio/memories-no-4.mid";
 
 //https://gorillasun.de/blog/a-simple-solution-for-shape-packing-in-2d
 
